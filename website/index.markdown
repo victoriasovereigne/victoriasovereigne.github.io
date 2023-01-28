@@ -1,7 +1,12 @@
-# Hello, I'm Victoria.
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+# Hi, I'm Victoria.
 (she/her)
 
-## About me
 Professionally, I work as a software engineer at Google, but I'm also an author, photographer, eager traveler, occasional content creator, fashion enthusiast, tech volunteer, ... (the list goes on).
 
 Passionate, self-driven, and interested in a crazy amount of things (my family, friends, and co-workers can confirm that!), I aspire to be a Renaissance Woman (a.k.a. polymath), although I'm also a member of *kaum rebahan*.
