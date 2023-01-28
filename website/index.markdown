@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Victoria Lestari's official website
+title: "Hi, I’m Victoria."
 permalink: /
 ---
-# Hi, I'm Victoria.
+
 (she/her)
 
 Professionally, I work as a software engineer at Google, but I'm also an author, photographer, eager traveler, occasional content creator, fashion enthusiast, tech volunteer, ... (the list goes on).

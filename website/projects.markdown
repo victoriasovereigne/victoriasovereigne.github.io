@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Personal Projects
+title: "Personal Projects"
 permalink: /projects/
 ---
-# Personal projects
 
 ## Writing
 ### Fiction
