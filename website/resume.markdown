@@ -1,11 +1,12 @@
 ---
 layout: page
-title: null
+title: "Resume"
 permalink: /resume/
 ---
 
-# Victoria A. Lestari
-I am a software engineer specialized in **Android infra** and interested in Artificial Intelligence and Machine Learning (AI/ML), especially Natural Language Processing (NLP).
+**Victoria A. Lestari**
+
+I am a software engineer specialized in **Android infrastucture** and interested in Artificial Intelligence and Machine Learning (AI/ML), especially Natural Language Processing (NLP).
 
 -----
 

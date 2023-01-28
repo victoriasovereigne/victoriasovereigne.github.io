@@ -9,7 +9,7 @@ permalink: /
 
 (she/her)
 
-Professionally, I work as a software engineer at Google, but I'm also an author, photographer, eager traveler, occasional content creator, fashion enthusiast, tech volunteer, ... (the list goes on).
+Professionally, I work as a **software engineer at Google**, but I'm also an author, photographer, eager traveler, occasional content creator, fashion enthusiast, tech volunteer, ... (the list goes on).
 
 Passionate, self-driven, and interested in a crazy amount of things (my family, friends, and co-workers can confirm that!), I aspire to be a Renaissance Woman (a.k.a. polymath), although I'm also a member of *kaum rebahan*.
 
