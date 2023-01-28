@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Victoria Lestari's official website
+permalink: /
 ---
 # Hi, I'm Victoria.
 (she/her)
