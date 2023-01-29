@@ -6,7 +6,7 @@ permalink: /resume/
 
 **Victoria A. Lestari**
 
-I am a software engineer specialized in **Android infrastucture** and interested in Artificial Intelligence and Machine Learning (AI/ML), especially Natural Language Processing (NLP).
+I am a software engineer specialized in **Android infrastructure** and interested in Artificial Intelligence and Machine Learning (AI/ML), especially Natural Language Processing (NLP).
 
 -----
 
