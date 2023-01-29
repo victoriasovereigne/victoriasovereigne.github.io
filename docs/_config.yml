@@ -26,6 +26,8 @@ title: "Victoria's website"
 #  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+instagram_username: victoria_en_rose
+linkedin_username: victorialestari
 github_username:  victoriasovereigne
 
 # Build settings
@@ -35,7 +37,7 @@ plugins:
 
 header_pages:
   - resume.markdown
-  - projects.markdown
+  - writing.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

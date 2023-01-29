@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "Personal Projects"
-permalink: /projects/
+title: "Writing"
+permalink: /writing/
 ---
 
-## Writing
 ### Fiction
 **Embracing Dawn (2021)**
 * Co-author: [TheEod](https://www.wattpad.com/user/TheEod)
