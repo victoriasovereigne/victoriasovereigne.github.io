@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: "Hi, I’m Victoria."
 permalink: /
@@ -9,11 +6,13 @@ permalink: /
 
 (she/her)
 
-Professionally, I work as a **software engineer at Google**, but I'm also an author, photographer, eager traveler, occasional content creator, fashion enthusiast, tech volunteer, ... (the list goes on).
+Professionally, I work as a **software engineer at Google**, but I'm also an author, (aspiring) artist and photographer, eager traveler, occasional content creator, fashion enthusiast, tech volunteer, fangirl, ... (the list goes on).
 
-Passionate, self-driven, and interested in a crazy amount of things (my family, friends, and co-workers can confirm that!), I aspire to be a Renaissance Woman (a.k.a. polymath), although I'm also a member of *kaum rebahan*.
+Passionate, self-driven, and interested in a crazy amount of things (my family, friends, and co-workers can confirm that!), I aspire to be a Renaissance Woman (a.k.a. polymath), although I'm also a member of *kaum rebahan* (Indonesian slang: a person who enjoys lying down for a great portion of their day).
 
-**kaum rebahan*: (Indonesian slang) a person who enjoys lying down for a great portion of their day.
+I also enjoy dressing up in costumes and everyday outfits that look like costumes.
+
+![victoria-in-the-office](assets/images/office.jpg)
 
 ## Updates
 * 2023: I'll be an industry instructor for Machine Learning and Soft Skills in [Bangkit 2023](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) again!
