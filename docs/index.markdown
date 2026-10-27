@@ -11,4 +11,5 @@ Professionally, I work as a **software engineer**, but I'm also an author, (aspi
 Passionate, self-driven, and interested in a crazy amount of things (people around me can confirm that!), I aspire to be a Renaissance Woman (a.k.a. polymath).
 
 ## Updates
-* 2023: I'll be an industry instructor for Machine Learning and Soft Skills in [Bangkit 2023](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) again!
+* 2026: I'm presenting in the [Android Dev Summit](https://developer.android.com/events/dev-summit)! Tune in to our talk: Unlock agentic capabilities in your app with ML Kit Gen AI.
+* 2026: I'm performing in my first ever City Academy musical theatre panto show (as part of the ensemble), [Puss in Boots](https://www.eventbrite.co.uk/e/the-city-academy-musical-theatre-companies-puss-in-boots-tickets-1999529140485)! 
