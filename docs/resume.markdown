@@ -9,6 +9,10 @@ permalink: /resume/
 ## Work Experience
 ### Google
 **Software Engineer** | 2019-present \
+2024-present \
+Part of the [Android AICore](https://support.google.com/android/answer/17065362?hl=en&ref_topic=7313011) Infrastructure Team. 
+
+2019-2024 \
 Part of the Android Machine Learning / Private Compute Core Infra Team. Owner of the release process of [Android System Intelligence](https://support.google.com/pixelphone/answer/12112173?hl=en). 
 
 ### Department of Computer Science, University of Indonesia
@@ -35,8 +39,8 @@ Meeting of the Association for Computational Linguistics and 7th International J
 Processing, Beijing, China, July 2015
 
 ## Volunteering Activities
-**Bangkit 2021 ([g.co/bangkit](http://g.co/bangkit)) -- Industry Instructor** \
-Teaching 15 classes of Machine Learning to 3rd-and-4th-year university students in a program by Google, Gojek, Tokopedia, and Traveloka.
+**Bangkit 2021 & 2023 ([g.co/bangkit](http://g.co/bangkit)) -- Industry Instructor** \
+Teaching Machine Learning classesto 3rd-and-4th-year university students in a program by Google, Gojek, Tokopedia, and Traveloka.
 
 **Grace Hopper Celebration 2020 -- Note Taker** \
 [Find my articles on Medium.](https://medium.com/@victoriaenrose/list/my-articles-from-2020-grace-hopper-celebration-82945088b87c)
