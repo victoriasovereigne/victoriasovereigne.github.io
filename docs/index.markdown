@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Victoria's website."
+title: "Welcome to the website of Victoria A. Lestari"
 permalink: /
 ---
 
@@ -17,6 +17,7 @@ Passionate, self-driven, and interested in a crazy amount of things (people arou
 
 ## Updates
 * 2026: I'm presenting in the [Android Dev Summit](https://developer.android.com/events/dev-summit)! Tune in to our talk: Unlock agentic capabilities in your app with ML Kit Gen AI.
-* 2026: I'm performing in my first ever City Academy musical theatre panto show (as part of the ensemble), [Puss in Boots](https://www.eventbrite.co.uk/e/the-city-academy-musical-theatre-companies-puss-in-boots-tickets-1999529140485)!
+* 2026: I will be performing in my first ever City Academy musical theatre panto show (as part of the ensemble), [Puss in Boots](https://www.eventbrite.co.uk/e/the-city-academy-musical-theatre-companies-puss-in-boots-tickets-1999529140485)!
+* 2025 & 2026: I performed in Alphabestival, Google London's summer music festival, as a singer! (Videos to come.)
 * 2025: I took a 6-week break (sabbatical) from work.
 * 2024: I'm one of the many winners of the [Google Tech Impact Award](https://lnkd.in/p/eEwTkd_G) for my work in "Gemini Nano on AICore and Pixel 8 Pro"!
